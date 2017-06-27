@@ -1,7 +1,8 @@
-# Welcome to our project page
+# Natural Computing, team Eastern Screech Owl
+Roel, Jeffrey and Jordi.
 
 ## Getting started
-To start, simply clone this repo using `git clone `
+To start, simply clone this repo using `git clone https://github.com/jeffluppes/NaturalComputingDNN` - assuming git is installed. If not, it is also possible to download this entire repo the old-fashioned way/ 
 
 From there on, things get a little bit complicated.
 
