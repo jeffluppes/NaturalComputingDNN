@@ -1,6 +1,11 @@
 # Natural Computing, team Eastern Screech Owl
 Roel, Jeffrey and Jordi.
 
+## A virtual machine
+A virtual machine containing the entire repo in a working copy can be found at *a link will be placed here after deadline*
+
+Using the virtual machine, you do not need to run the below instructions. 
+
 ## Getting started
 To start, simply clone this repo using 
 `git clone https://github.com/jeffluppes/NaturalComputingDNN` - Which works assuming git is installed. If not, it is also possible to download this entire repo the old-fashioned way by using the download button.  
@@ -30,7 +35,7 @@ Keras-rl is a reinforcement learning library and can be installed with `pip inst
 
 ## Installing h5py
 h5py is used to save and store model weights.   
-`pin install h5py`
+`pip install h5py`
 
 ## This repo
 The code used can be found in `../scripts/` and may be run by command-line commands, e.g. `python script.py`.
