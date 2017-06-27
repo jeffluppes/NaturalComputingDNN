@@ -2,11 +2,12 @@
 Roel, Jeffrey and Jordi.
 
 ## Getting started
-To start, simply clone this repo using `git clone https://github.com/jeffluppes/NaturalComputingDNN` - assuming git is installed. If not, it is also possible to download this entire repo the old-fashioned way/ 
+To start, simply clone this repo using 
+`git clone https://github.com/jeffluppes/NaturalComputingDNN` - Which works assuming git is installed. If not, it is also possible to download this entire repo the old-fashioned way by using the download button.  
 
 From there on, things get a little bit complicated.
 
-## Installing anaconda
+## Installing Anaconda
 First off, install anaconda with Python 2.7 from https://www.continuum.io/downloads depending on your distribution. This should install most of the required software.
 
 ## Setting up the Gym environment
