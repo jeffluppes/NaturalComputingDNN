@@ -2,7 +2,7 @@
 Roel, Jeffrey and Jordi.
 
 ## A virtual machine
-A virtual machine containing the entire repo in a working copy can be found at *a link will be placed here after deadline*
+A virtual machine containing the entire repo in a working copy can be found at https://www.dropbox.com/sh/hgjde54zezrdr1m/AAAcUkVxztZZPNaGaCLPtq5oa?dl=0
 
 Using the virtual machine, you do not need to run the below instructions. 
 
@@ -57,3 +57,5 @@ After completion, the terminal will show the results per episode.
 ![](http://puu.sh/wvTE0/c774db4b68.png)
 
 Like any other code, the output may be redirected or piped to a file (which is what we did in order to analyze the results, always a good tip!)
+
+As a last note: the training weights are saved in a h5py file in the same folder as the code.
