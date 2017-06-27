@@ -41,3 +41,16 @@ h5py is used to save and store model weights.
 The code used can be found in `../scripts/` and may be run by command-line commands, e.g. `python script.py`.
 
 Reports and raw data can also be found in the designated folders. 
+
+# A sample run
+Assuming all of the above has been done, one can start any arbitrary script by typing
+`python <script>.py`
+![](http://puu.sh/wvThG/295ba87328.png)
+
+The code will take a little while to produce anything, but eventually learning takes place with output being redirected to the terminal. 
+
+![](http://puu.sh/wvTt9/1b5d88daad.jpg)
+
+After completion, the terminal will show the results per episode. 
+![](http://puu.sh/wvTE0/c774db4b68.png)
+Like any other code, the output may be redirected or piped to a file (which is what we did in order to analyze the results, always a good tip!)
