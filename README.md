@@ -1,12 +1,12 @@
-Welcome to our project page. 
+# Welcome to our project page
 
-Getting started
+## Getting started
 To start, simply clone this repo using `git clone `
 
 From there on, things get a little bit complicated.
 
 ## Installing anaconda
-First off, install anaconda with Python 2.7 from https://www.continuum.io/downloads#windows depending on your distribution. This should install most of the required software.
+First off, install anaconda with Python 2.7 from https://www.continuum.io/downloads depending on your distribution. This should install most of the required software.
 
 ## Setting up the Gym environment
 This project was made with OpenAI's gym ecosystem. We use Gym to load the game environments. While there are quite a lot of environments implemented, not all work under Windows 7/8/10, and there at least some that do not work even under Ubuntu.
@@ -20,7 +20,7 @@ Installing Gym can be done by
 or using `pip install Gym`
 
 
-For the code in this repo, the choice between Ubuntu and Windows should not be relevant (this choice was mainly made for reproducability) but in case you, the reader, encounter errors, know that it can be oddly specific to your environment. If you are using Ubuntu we suggest Theano, as tensorflow might give errors.
+For the code in this repo, the choice between Ubuntu and Windows should not be relevant (this choice was mainly made for reproducability) but in case you, the reader, encounter errors, know that it can be oddly specific to your environment. If you are using Ubuntu we suggest Theano, as tensorflow is known to give errors.
 
 ## Installing Keras-rl
 
@@ -28,7 +28,7 @@ Keras-rl is a reinforcement learning library and can be installed with `pip inst
 
 ## Installing h5py
 h5py is used to save and store model weights.   
-
+`pin install h5py`
 
 ## This repo
 The code used can be found in `../scripts/` and may be run by command-line commands, e.g. `python script.py`.
