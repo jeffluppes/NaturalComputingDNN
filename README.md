@@ -2,7 +2,7 @@
 Roel, Jeffrey and Jordi.
 
 ## A virtual machine
-A virtual machine containing the entire repo in a working copy can be found at https://www.dropbox.com/sh/hgjde54zezrdr1m/AAAcUkVxztZZPNaGaCLPtq5oa?dl=0
+A virtual machine containing the entire repo in a working copy can be found at https://www.dropbox.com/s/rwuq9oa4xconp8r/QlearningUbuntuBox.ova?dl=0
 
 Using the virtual machine, you do not need to run the below instructions. 
 
